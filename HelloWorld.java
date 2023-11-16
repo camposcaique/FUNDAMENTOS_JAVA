@@ -20,17 +20,17 @@ public class HelloWorld {
         String dadoDoTipoString = "Colocar o meu texto";
         Boolean dadoDoTipoBoolean = false;
 
-        // if - else 
-        // if(dadoDoTipoInt == 10) {
-        //     // sysout
-        //     System.out.println("Entrou no if do 10");
-        // } if (dadoDoTipoInt < 12) {
-        //     System.out.println("Entrou no if do 12");
-        // }
+        // // if - else 
+        if(dadoDoTipoInt == 10) {
+            // sysout
+            System.out.println("Entrou no if do 10");
+        } if (dadoDoTipoInt < 12) {
+            System.out.println("Entrou no if do 12");
+        }
 
-        // else {
-        //     System.out.println("Entrou no else");
-        // }
+        else {
+            System.out.println("Entrou no else");
+        }
 
         // While (Enquanto algo for verdadeiro, faça alguma coisa)
         int valorInicial = 0;
@@ -43,7 +43,7 @@ public class HelloWorld {
 
         // For
         for(int i = 0; i < 4; i++) {
-            System.out.println("O valor do i é: " + is);
+            System.out.println("O valor do i é: " + i);
         }
         System.out.println("Finalizando o FOR");
 
