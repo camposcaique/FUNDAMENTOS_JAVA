@@ -1,11 +1,15 @@
-# Fundamentos de Java
+# Fundamentos Java
 
-Curso ministrado pela RockeatSeat.
-Aprendendo os fundamentos de Java na prática.
+
+
+>Tudo sobre os fundamentos de Java.
+>Curso ministrado pela RockeatSeat.
+
+
 
 ## 🔨 Tecnologias
 
-JAVA
+- Java
 
 ## 💓 Contato
 
